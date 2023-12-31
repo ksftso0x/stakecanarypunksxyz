@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+}
+h1 {
+    font-size: 25px;
+    color: black;
+    line-height: 2.5;
+    /* text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ffffff, 0 0 40px #ffffff, 0 0 50px #ffffff, 0 0 60px #ffffff, 0 0 70px #ffffff; */
+  }
+
+
+   h2 {
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+
+  h3 {
+    font-size: 13px;
+    color: rgb(241, 119, 119);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+  
+  p {
+    color: white;
+    line-height: 2 ;
+    font-size: 20px;
+
+  }
+
+  h4 {
+    font-size: 15px;
+    color: #000000
+   
+  }
+  h5 {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    /* text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ffffff, 0 0 40px #ffffff, 0 0 50px #ffffff, 0 0 60px #ffffff, 0 0 70px #ffffff; */
+  }
+
+  h6 {
+    font-size: 20px;
+    color: rgb(179, 1, 1);
+    /* text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ffffff, 0 0 40px #ffffff, 0 0 50px #ffffff, 0 0 60px #ffffff, 0 0 70px #ffffff; */
+  }
